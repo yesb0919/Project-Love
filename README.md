@@ -1,12 +1,59 @@
-# GrowingLove
-This is app which can check your time of conversation more romantic .
+# Osori Android
+Collection of android open source library made by osories.
 
-## what is GowingLove ?
-This app is designed for pepole who want to check their time of conversation more romantic. This also help your relationship more better than before. This app pops up shape of heart widget, and this widget get bigger when you keep calling your lover. when you hang up your call this widget should disappear
+## Index
+* How to request new open source
+* Osori library
+* Osori application
+* Contributor
 
-## STEP
-|Step|description|sample| 
-|:--- |:----|:----:|
-|APP APPEARANCE|This app has not ordinary shape. It has shape of heart and it makes your lover more like it.|<img src="http://imageshack.com/a/img923/8584/Qpu5ce.jpg" width=200/> |
-|CLICK APP|When you click this app, it will direct call to your lover(who saved in this app). At the sametime shape of heart widget will pops up on your screen. Use Telephonymanager to change the condition of widget and calling|<img src="http://imageshack.com/a/img923/7591/E9iArm.jpg" width=200/>|
-|GROWING WIDGET| Widget keeps growing until you hang up your call. This widget grows 50ms, and it also disappear when you click this widget more than 2 seconds.|<img src="http://imageshack.com/a/img922/9034/0zw22T.jpg" width=200/>|
+## How to request new open source
+
+Using git issue section, add new issue with develop label. 
+
+If you see new issue and you want to `develop` it, you add label `inProgress` and add comment on that issue.
+
+## Osori library
+|Project Name|developer|description|sample| 
+|:--- |:---- |:----|:----:|
+|[ShakeSplashActivity](https://github.com/clucle/ShakeSplashActivity.git)|[dude](https://github.com/clucle)|      | |
+|[CustomEllipsizeTextView](https://github.com/JunsuLime/CustomEllipsizeTextview)|[JunsuLime](https://github.com/JunsuLime)|     | | 
+|[SectionAdapter](https://github.com/JunsuLime/Android-RecyclerView-SectionAdapter)|[JunsuLime](https://github.com/JunsuLime)|ListView and ReclerView Adapter for well sectioned view|<img src="https://cloud.githubusercontent.com/assets/17852124/26761885/aae1ed72-4972-11e7-8a7f-912624c86c66.png" width=240/> |
+
+## Osori application
+|Project Name|developer|description|sample| 
+|:--- |:---- |:----|:----:|
+|[Widget Gallery]() | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can choose the photo they like and edit the text with various kinds of fonts and colours.| |
+|[Sangil Project]() | [Sangil](https://github.com/sangil10)|When you call, this application helps you to put number with finding the number as a background| |
+
+## Contributors
+* [clucle](https://github.com/clucle)
+* [sangil10](https://github.com/sangil10)
+* [2015058177](https://github.com/2015058177)
+* [Wanjuuuuu](https://github.com/Wanjuuuuu)
+* [JunsuLime](https://github.com/JunsuLime)
+
+## License
+```
+The MIT License (MIT)
+
+Copyright (c) 2016 Hanyang Osori
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
