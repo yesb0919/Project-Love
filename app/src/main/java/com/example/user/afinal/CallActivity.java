@@ -63,7 +63,7 @@ public class CallActivity extends Activity {
 
         Log.d(TAG, "call is called");
         Intent intent = new Intent(Intent.ACTION_CALL);
-        intent.setData(Uri.parse("tel:01072285946"));
+        intent.setData(Uri.parse("tel:01040127351"));
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
             Toast.makeText(this, "전화 권한을 주세요", Toast.LENGTH_SHORT).show();
             finish();
